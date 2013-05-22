@@ -1,7 +1,7 @@
 First public podting of REMI framework.
 
 REMI framework is a Zend based application framework that allows real estate personnel to
-easily manage clinets, properties and appointments in a single interface.
+easily manage clients, properties and appointments in a single interface.
 
 REMI has an open and extensible design pattern that allows programmers to quickly and efficiently 
 create an application based on the needs and requirements of the user. In turn, the users have 
@@ -9,10 +9,10 @@ the freedom to tailor the interface to their own preferances and desires.
 
 The interface provides a series of user customizable views, which can be either free-form or tightly 
 typed according to the underlying data. The framework uses underlying Zend componernts to manage
-user access and authentication. Alternaticely, a RADIUS module provides an even more sceure and 
-contolled access protocol for situations that require higher security levels. The radius also provides
+user access and authentication. Alternaticely, a RADIUS module provides an even more secure and 
+contolled access protocol for situations that require higher security levels. The radius mod also provides
 the ability to implement time or data based charging for system use, i.e. where users are billed monthly 
-for services.
+for services. 
 
 <?php 
   $_phpUnitTagId;
